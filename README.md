@@ -18,8 +18,7 @@
 
 2. start 버튼을 누르면 게임을 진행합니다.
 
+https://user-images.githubusercontent.com/62276515/196345422-6b3cc888-40cb-4cf7-b095-2f6850203fd1.mp4
 
 
-
-https://user-images.githubusercontent.com/62276515/196337382-38c546c0-ff52-496d-987c-f0878955c322.mp4
 
